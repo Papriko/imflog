@@ -1,0 +1,21 @@
+{
+  "name": "IMF Mission Log",
+  "short_name": "MissionLog",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/ZqN9rjgc/jie-ping2026-01-13-18-02-36.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.postimg.cc/ZqN9rjgc/jie-ping2026-01-13-18-02-36.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
